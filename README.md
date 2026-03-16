@@ -1,2 +1,2 @@
-# swiss-task-1 
+# swiss-task-1
 commit  
